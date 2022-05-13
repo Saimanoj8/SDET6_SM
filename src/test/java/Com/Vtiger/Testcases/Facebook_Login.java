@@ -28,6 +28,7 @@ public class Facebook_Login {
 
 		String homepage = driver.getTitle();
 		System.out.println(homepage);
+		System.out.println("home page is displayed");
 		
 		
 	}
